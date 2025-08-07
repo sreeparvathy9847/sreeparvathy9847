@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Hand Waving](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Hand%20Waving.gif)
 <!--
 **sreeparvathy9847/sreeparvathy9847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
